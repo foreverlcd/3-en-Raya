@@ -49,3 +49,11 @@ python main.py
 ├── tictactoe.py  
 └── utils.py
 ```
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
+
+## Contacto
+
+Si tienes alguna pregunta o sugerencia, puedes contactarme a través de mi [perfil de GitHub](https://github.com/foreverlcd).
