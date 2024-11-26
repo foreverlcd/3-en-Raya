@@ -1,15 +1,15 @@
-# 3 en Raya
+# 3 en Raya 🎮
 
 Este es un juego de "3 en Raya" desarrollado en Python utilizando las bibliotecas `tkinter` y `pygame`.  
 El juego incluye una versión personalizada con preguntas, sonidos y un fondo, que puedes cambiar a tu gusto.
 
-## Requisitos
+## Requisitos 📋
 
 - Python 3.x
 - Pillow
 - pygame
 
-## Instalación
+## Instalación 💻
 
 1. Clona este repositorio:
     ```sh
@@ -22,14 +22,14 @@ El juego incluye una versión personalizada con preguntas, sonidos y un fondo, q
     pip install -r requirements.txt
     ```
 
-## Uso
+## Uso 🚀
 
 Ejecuta el archivo `main.py` para iniciar el juego:
 ```sh
 python main.py
 ```
 
-## Estructura del Proyecto:
+## Estructura del Proyecto 📂
 ```
 3-en-Raya
 ├── image/                  # Directorio con el fondo y el logo del juego
@@ -50,10 +50,10 @@ python main.py
 └── utils.py
 ```
 
-## Licencia
+## Licencia 📄
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más información.
 
-## Contacto
+## Contacto 📬
 
 Si tienes alguna pregunta o sugerencia, puedes contactarme a través de mi [perfil de GitHub](https://github.com/foreverlcd).
